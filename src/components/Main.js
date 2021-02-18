@@ -2,7 +2,7 @@ import React from "react";
 import { Switch, Route } from "react-router-dom";
 import Home from "./Home";
 import LandingPage from "./LandingPage";
-import UserPage from "./UserPage";
+//import UserPage from "./UserPage";
 import Scores from "./Scores";
 import SignUp from "./SignUp";
 import create from "./Create";
