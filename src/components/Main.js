@@ -8,6 +8,7 @@ import SignUp from "./SignUp";
 import create from "./Create";
 import login from "./login";
 import trivia from "./trivia";
+import Emojii from "./Emojii";
 
 //import FilterableProductTable from './thinkinginreact'
 
@@ -22,7 +23,7 @@ const Main = () => (
     <Switch>
       <Route exact path="/" component={Home} />
       <Route path="/LandingPage" component={LandingPage} />
-      <Route path="/UserPage" component={UserPage} />
+      <Route path="/Emojii" component={Emojii} />
       <Route path="/Scores" component={Scores} />
       <Route path="/SignUp" component={SignUp} />
       <Route path="/Create" component={create} />
