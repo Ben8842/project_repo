@@ -8,7 +8,7 @@ following [this tutorial](https://blog.pshrmn.com/entry/simple-react-router-v4-t
 
 => React <b>16.8.6</b> [link](https://github.com/facebook/react)
 
-=> React-Router-Dom <b>5.0.0</b> [link](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom) 
+=> React-Router-Dom <b>5.0.0</b> [link](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
 
 #### Amazing Links you need to read also :
 
@@ -16,8 +16,10 @@ following [this tutorial](https://blog.pshrmn.com/entry/simple-react-router-v4-t
 
 2)[An overview of the history package used by React Router](https://blog.pshrmn.com/entry/a-little-bit-of-history/)
 
-
 ### How to run the project ?
 
-Well clone it and hit 
->npm start
+Well clone it and hit
+
+> npm start
+
+building repo for portfolio
